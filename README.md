@@ -60,7 +60,7 @@ This will compile our circuit, calculate the witness, and generate the proof and
 
 ## Contributing
 
-Contributions to Poly-zkSNARK-Circuit are welcome! If you find any issues or want to add new features, feel free to open a pull request. 
+Contributions to Poly-zkEVM-Circuit are welcome! If you find any issues or want to add new features, feel free to open a pull request. 
 
 ## Author
 
